@@ -22,11 +22,11 @@ responses = {
       "i'm fine" :"Oh! that's great !",
       "i am good":"Oh! that's nice ",
       "i not fine":"Oh! everything will be alright soon .",
-      "who are you ?":"I am you chatbot",
+      "who are you ?":"I am your chatbot",
       "what is python ?":"Python is an interperted programming language .",
       "what are the uses of python ?":"It is useful for web development,software development,Machine             learning",
-      "How python differ from other programming languages ?":"Python has a simple syntax and easy to          learn",
-      "Thank you":"My pleasure"
+      "how python differ from other programming languages ?":"Python has a simple syntax and easy to          learn",
+      "thank you":"My pleasure"
    }
       
 # Method or function to get response from the chat assistant
